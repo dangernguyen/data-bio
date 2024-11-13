@@ -11,7 +11,7 @@
                 "title": "Channel Cộng Đồng Danger Airdrop",
                 "des": "Cập nhập các kèo sớm và hot nhất trên Telegram.",
                 "imageUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200px-Telegram_logo.svg.png",
-                "link": "https://t.me/dangerAirdrops46"
+                "link": "https://t.me/dangerairdrop_channel"
             },
             {
                 "id": 102,
@@ -19,7 +19,7 @@
                 "title": "Kênh Chat Giao Lưu",
                 "des": "Trao đổi, chia sẻ kinh nghiệm làm airdrop.",
                 "imageUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200px-Telegram_logo.svg.png",
-                "link": ""
+                "link": "https://t.me/dangerairdrop_chat"
             }
         ]
     },
@@ -35,7 +35,7 @@
                 "title": "🔥BLUM🔥",
                 "des": "Listing vào Q4",
                 "imageUri": "https://img.bitgetimg.com/multiLang/coinPriceLogo/blum.png",
-                "link": ""
+                "link": "https://t.me/blum/app?startapp=ref_J7epIlBg09"
             },
             {
                 "id": 202,
@@ -43,7 +43,7 @@
                 "title": "PAWS🐾",
                 "des": "Dự án được hậu thuẫn bởi Dogs - Blum - NotCoin - Dev Ton",
                 "imageUri": "https://pngimg.com/d/paw_PNG69.png",
-                "link": ""
+                "link": "https://t.me/PAWSOG_bot/PAWS?startapp=fU6asBNq"
             },
             {
                 "id": 203,
@@ -51,10 +51,18 @@
                 "title": "YESCOIN",
                 "des": "Dự án khả năng cao sẽ list full sàn.",
                 "imageUri": "https://ton.app/media/52e5529f-b3ff-4172-9ebc-793417c48eb5.png?w=256&q=75",
-                "link": ""
+                "link": "https://t.me/theYescoin_bot/Yescoin?startapp=S5MLm0"
+            },
+            {
+                "id": 203,
+                "disabled": false,
+                "title": "🔥MATCH QUEST🔥",
+                "des": "Dự án tiềm năng cao rót vốn bởi BNB LAB.",
+                "imageUri": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrfTfQbvdROz82wf9Eipgb50RpM62aRHfpmQ&s",
+                "link": "https://t.me/MatchQuestBot/start?startapp=5bb42edb724531733d262ae54ba6b83b"
             }
         ]
-    },
+    }, 
     {
         "id": 3,
         "type": "contact",
